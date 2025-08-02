@@ -4,12 +4,23 @@
 
 layout: home
 ---
-# Hi, I'm Raymond
+---
+layout: default
+title: Home
+---
+# 👋 Hello, I'm Raymond
 
-I'm an engineering student building cool things with Python, electronics, and the web.
+I'm a student engineer passionate about building impactful systems — from smart grids to FPGA visualizers.
 
-## Projects
+This is my portfolio to showcase projects, reports, and ongoing personal development.
+
+## 🔧 Projects
+
 - [Smart Grid Simulation](projects/smartgrid.html)
 - [FPGA Visualizer](projects/fpga.html)
 
-[View My GitHub](https://github.com/yourusername)
+## 📫 Contact
+
+- [GitHub](https://github.com/m-uch)
+- [LinkedIn](https://www.linkedin.com/in//)
+- Email: ... [at] ... [dot] com
