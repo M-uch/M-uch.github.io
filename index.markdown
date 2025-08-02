@@ -3,10 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
----
----
-layout: default
-title: Home
+title: home
 ---
 # 👋 Hello, I'm Raymond
 

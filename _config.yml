@@ -25,7 +25,6 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 baseurl: "" # important for GitHub Pages
 url: "https://M-uch.github.io"
-description: doahoihoaih
 
 # Links in the navbar (optional)
 navigation:
